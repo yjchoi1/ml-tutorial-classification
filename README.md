@@ -12,8 +12,8 @@ This repository contains tutorials and materials for learning classification alg
 
 You can open and run these notebooks directly in Google Colab:
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/classification/blob/main/logistic_regression_tutorial.ipynb) Logistic Regression Tutorial
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/classification/blob/main/decision_tree_tutorial.ipynb) Decision Tree Tutorial
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yjchoi1/ml-tutorial-classification/blob/main/logistic_regression_tutorial.ipynb) Logistic Regression Tutorial
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yjchoi1/ml-tutorial-classification/blob/main/decision_tree_tutorial.ipynb) Decision Tree Tutorial
 
 ## Dataset
 
@@ -28,4 +28,4 @@ To run these notebooks locally, you'll need:
 
 ## License
 
-[Add your license information here] 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
